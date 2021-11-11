@@ -1,0 +1,51 @@
+[
+	{
+		"uuid":"5654654646", 
+		"title":"Tacos al pastor",
+		"description":"Nullam rutrum, lacus et ullamcorper vulputate, lectus elit feugiat velit, non lacinia felis ipsum ut risus.",
+		"imageUrl":"https://wrmx00.epimg.net/radio/imagenes/2017/10/06/sociedad/1507296185_220963_1507296727_noticia_normal.jpg",
+		"unit":"pieza",
+		"stock":15,
+		"pricePerUnit":15.00,
+		"category":"Comida"},
+		
+		{"title":"Lonche de panela",
+		"description":"Nullam rutrum, lacus et ullamcorper vulputate, lectus elit feugiat velit, non lacinia felis ipsum ut risus.",
+		"imageUrl":"https://i.pinimg.com/originals/b1/26/7a/b1267a16758eb2f182cc545c4d9b5a00.jpg",
+		"unit":"pieza",
+		"stock":15,
+		"pricePerUnit":20.00,
+		"category":"Comida"},
+		
+		{"title":"Manzana",
+		"description":"Nullam rutrum, lacus et ullamcorper vulputate, lectus elit feugiat velit, non lacinia felis ipsum ut risus.",
+		"imageUrl":"http://choperfy.com/wp-content/uploads/2020/05/manzana-roja-1.jpg",
+		"unit":"pieza",
+		"stock":20,
+		"pricePerUnit":5.00,
+		"category":"Fruta"},
+		
+		{"title":"Pera",
+		"description":"Nullam rutrum, lacus et ullamcorper vulputate, lectus elit feugiat velit, non lacinia felis ipsum ut risus.",
+		"imageUrl":"https://m.media-amazon.com/images/I/51xd78Uc7oL._AC_.jpg",
+		"unit":"pieza",
+		"stock":15,
+		"pricePerUnit":15.00,
+		"category":"Fruta"},
+		
+		{"title":"Tequila",
+		"description":"Nullam rutrum, lacus et ullamcorper vulputate, lectus elit feugiat velit, non lacinia felis ipsum ut risus.",
+		"imageUrl":"https://www.soriana.com/dw/image/v2/BGBD_PRD/on/demandware.static/-/Sites-soriana-grocery-master-catalog/default/dwa5960d8d/images/product/5000281056265-A.jpg?sw=1000&sh=1000&sm=fit",
+		"unit":"botella",
+		"stock":15,
+		"pricePerUnit":300.00,
+		"category":"Alcohol"},
+		
+		{"title":"Whiskey",
+		"description":"Nullam rutrum, lacus et ullamcorper vulputate, lectus elit feugiat velit, non lacinia felis ipsum ut risus.",
+		"imageUrl":"https://saboryestilo.com.mx/wp-content/uploads/elementor/thumbs/diferencia-entre-whisky-y-whiskey-1-onefcuo2b2xaa7sgdegyfw3psok7m8fft1ri5q358g.jpg",
+		"unit":"botella",
+		"stock":15,
+		"pricePerUnit":300.00,
+		"category":"Alcohol"}
+]
